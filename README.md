@@ -1,5 +1,5 @@
 # PizzaApp
- ![WhatsApp Image 2023-10-16 à 21 54 12_038069a8](https://github.com/roaeldhimni/PizzaApp/assets/128164812/3a7a8114-d8dd-4631-9fe6-97cf978bde0c)
-![WhatsApp Image 2023-10-16 à 21 54 12_60f8432c](https://github.com/roaeldhimni/PizzaApp/assets/128164812/de41cd0f-95f5-40c0-b83f-2b07eee2accf)
-![WhatsApp Image 2023-10-16 à 21 54 12_f9749f9e](https://github.com/roaeldhimni/PizzaApp/assets/128164812/c48d68f9-0207-41d8-9203-793260f939b0)
+![pizza1](https://github.com/roaeldhimni/PizzaApp/assets/128164812/fceaf166-37fa-4363-8d19-8d1b39d53f36)
+![pizza2](https://github.com/roaeldhimni/PizzaApp/assets/128164812/a2967a0e-4b9a-4f16-be22-f60920041ea1)
+ ![pizza3](https://github.com/roaeldhimni/PizzaApp/assets/128164812/b5b1f8ea-6c84-460d-9062-77685b32c017)
 
